@@ -12,7 +12,7 @@ This app was created because I found it frustrating to have to open multiple app
 to keep track of my balances whenever I got paid, as I had multiple cards. This app 
 consolidates all your bank accounts into one app and you can quickly and easily 
 deposit or withdraw and keep track of all your bank account balances in one place. 
-[NOTICE: this app was built in an educational fashion, not one to be widely distributed] 
+[NOTE: this app was built in an educational and informational manner] 
 
 
 ## Google Play Store
