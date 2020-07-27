@@ -2,9 +2,9 @@
 
 A simple app created to keep track of your bank accounts and balances.
 
-## App's Code (repo includes all files from AndroidStudio)
-Project's Main Code: [main](https://github.com/aksharans/BankPayTracker/tree/master/app/src/main/java/com/example/bankpay_v1)
-<br/>Project's Layout Code: [layout](https://github.com/aksharans/BankPayTracker/tree/master/app/src/main/res/layout)
+## Project's Code (repo includes all files from AndroidStudio)
+App's Main Code: [main](https://github.com/aksharans/BankPayTracker/tree/master/app/src/main/java/com/example/bankpay_v1)
+<br/>App's Layout Code: [layout](https://github.com/aksharans/BankPayTracker/tree/master/app/src/main/res/layout)
 
 
 ## Usage
